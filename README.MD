@@ -7,6 +7,7 @@ A web application designed for the **Nuit de l'Info** challenge, aiming to raise
 - [@canarddu38](https://www.github.com/canarddu38)
 - [@0xS4cha](https://www.github.com/0xS4cha)
 - [@Arcanovax](https://www.github.com/Arcanovax)
+- [@JusDeTomat](https://www.github.com/JusDeTomat)
 - [@Oscorpyy](https://www.github.com/Oscorpyy)
 - [@loragegronde](https://www.github.com/loragegronde)
 - [@LeoGoder](https://www.github.com/LeoGoder)
