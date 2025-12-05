@@ -1,4 +1,4 @@
-# Nuit de l'Info 2024 - NIRD Awareness
+# Nuit de l'Info 2025 - NIRD Awareness
 
 A web application designed for the **Nuit de l'Info** challenge, aiming to raise awareness about High Tech through the **NIRD** method.
 
@@ -15,7 +15,7 @@ A web application designed for the **Nuit de l'Info** challenge, aiming to raise
 
 ## Description
 
-This project was developed during the **Nuit de l'Info 2024**. The goal is to educate users about the complexities and impacts of High Technology. By leveraging the **NIRD** method, we provide an interactive and gamified experience that demystifies tech concepts.
+This project was developed during the **Nuit de l'Info 2025**. The goal is to educate users about the complexities and impacts of High Technology. By leveraging the **NIRD** method, we provide an interactive and gamified experience that demystifies tech concepts.
 
 The application features a variety of mini-games and simulations, ranging from a Linux installation simulator to classic arcade games with an educational twist.
 
@@ -80,14 +80,12 @@ This project is divided into a `client` and a `server`.
 
 ### Running the Client
 ```bash
-cd client
-pnpm run dev
+pnpm run client:dev
 ```
 
 ### Running the Server
 ```bash
-cd server
-pnpm run start
+pnpm run server:dev
 ```
 
 ## Disclaimer
